@@ -1,0 +1,44 @@
+# C# and .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll.config
+*.exe
+*.log
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.unityproj
+*.booproj
+*.pidb
+
+# Raft Modding
+/[Rr]aft_Data/
+/RaftModLoader.log
+/RML.log
+/HMLCore.log
+*.zip
+
+# IDE files
+.vscode/
+*.csproj.user
+*.sln.DotSettings.user
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 

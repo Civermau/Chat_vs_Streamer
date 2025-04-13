@@ -1,0 +1,14 @@
+{
+  "name": "Chat_vs_Streamer",
+  "author": "Civer_mau",
+  "description": "Let your chat help you! (Or annoy you a little... not so little). With this mod, you set some actions that will happen on game for bits or channel points. Let your viewers dissapear your inventory, or make you incredibly op, it's your choice!",
+  "version": "0.1",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/YOUR-MOD-SLUG-HERE/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
